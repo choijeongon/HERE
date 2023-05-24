@@ -1,7 +1,5 @@
 # 💖 ![logo_2_1](https://user-images.githubusercontent.com/40704078/233773989-d4e219fd-cfac-43b7-b86e-285da343524e.png) NFT 헌혈증서 플랫폼 💖
 
-## [💕지금 체험하기!](http:/j8b209.p.ssafy.io)
-
 ![mainBanner_1](https://user-images.githubusercontent.com/40704078/233773973-ff338564-2b1b-4e07-a599-e3566c8d004f.png)
 
 # 💕 HERE 소개
