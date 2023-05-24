@@ -16,7 +16,7 @@ HERE에서 발행된 헌혈증서는 안전하게 저장되며, 언제 어디서
 
 HERE를 통해 헌혈증서의 미래를 경험해보세요.
 
-## 🎥 [소개 영상 보기 : UCC 링크](https://youtu.be/-KMc-rHhZNU)
+## 🎥 [소개 영상 보기 : UCC 링크](https://www.youtube.com/watch?v=FnGybUGZLfc)
 
 ### 💕 [실행 (포팅매뉴얼)](https://github.com/Leeh9/HERE/blob/master/exec/HERE_%ED%8F%AC%ED%8C%85%EB%A7%A4%EB%89%B4%EC%96%BC.pdf)
 
