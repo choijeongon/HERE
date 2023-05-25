@@ -1,3 +1,7 @@
+## 🏆 2023 미래산업 인재육성 컨퍼런스 VALUE UP 프로젝트 공모전 금상
+## 🏆 SSAFY 특화프로젝트 우수상
+---
+
 # 💖 ![logo_2_1](https://user-images.githubusercontent.com/40704078/233773989-d4e219fd-cfac-43b7-b86e-285da343524e.png) NFT 헌혈증서 플랫폼 💖
 
 ![mainBanner_1](https://user-images.githubusercontent.com/40704078/233773973-ff338564-2b1b-4e07-a599-e3566c8d004f.png)
